@@ -1,0 +1,9 @@
+*,*::before,*::after {
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
