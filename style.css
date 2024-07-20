@@ -11,6 +11,7 @@ body {
 #portrait {
     width: 300px;
     max-width: 80%;
+    align-self: center;
 }
 .heading {
     color: #00149a;
@@ -24,5 +25,5 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: start;
-    align-items: center;
+    align-items: stretch;
 }
