@@ -13,6 +13,9 @@ body {
     max-width: 80%;
     align-self: center;
 }
+#about_text {
+    padding: 40px;
+}
 .heading {
     color: #00149a;
     font-family: Helvetica, sans-serif;
